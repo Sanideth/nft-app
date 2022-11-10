@@ -1,5 +1,7 @@
 .Container {
-  width: 302px;
+  max-width: 302px;
+  min-width: 150px;
+
   border-bottom: solid 1px #2e405a;
 }
 

@@ -7,18 +7,19 @@
 
 .Image {
   background-image: url(../../images/image-equilibrium.jpg);
-  width: 302px;
+  max-width: 302px;
+  min-width: 150px;
   height: 302px;
-  background-position: center;
   background-size: 100%;
+  background-repeat: no-repeat;
   border-radius: 0.8rem;
   margin-bottom: 2.4rem;
-  background-color: #00fff8;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
 }
+
 .Image::after {
   content: "";
   position: absolute;
