@@ -28,6 +28,7 @@
   background-color: #00fff8;
   opacity: 0;
   cursor: pointer;
+  transition: opacity 0.3s;
 }
 
 .Image:hover::after {
