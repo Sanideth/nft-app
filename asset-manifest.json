@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6857addb.css",
-    "main.js": "/static/js/main.bc70db9a.js",
-    "static/media/image-equilibrium.jpg": "/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
-    "index.html": "/index.html",
-    "static/media/icon-view.svg": "/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
-    "static/media/icon-clock.svg": "/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
-    "static/media/icon-ethereum.svg": "/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
-    "main.6857addb.css.map": "/static/css/main.6857addb.css.map",
-    "main.bc70db9a.js.map": "/static/js/main.bc70db9a.js.map"
+    "main.css": "/nft-app/static/css/main.d0eac9ea.css",
+    "main.js": "/nft-app/static/js/main.83bf6026.js",
+    "static/media/image-equilibrium.jpg": "/nft-app/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-app/index.html",
+    "static/media/icon-view.svg": "/nft-app/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/nft-app/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/nft-app/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.d0eac9ea.css.map": "/nft-app/static/css/main.d0eac9ea.css.map",
+    "main.83bf6026.js.map": "/nft-app/static/js/main.83bf6026.js.map"
   },
   "entrypoints": [
-    "static/css/main.6857addb.css",
-    "static/js/main.bc70db9a.js"
+    "static/css/main.d0eac9ea.css",
+    "static/js/main.83bf6026.js"
   ]
 }
