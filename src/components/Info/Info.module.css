@@ -1,0 +1,42 @@
+.Container {
+  width: 302px;
+  border-bottom: solid 1px #2e405a;
+}
+
+.Heading {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+.Text {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  color: #8bacd9;
+  margin-top: 1.6rem;
+}
+
+.NftContainer {
+  display: flex;
+  margin: 2.4rem 0 2.4rem 0;
+  justify-content: space-between;
+}
+
+.IconTextContainer {
+  display: flex;
+}
+
+.IconText,
+.DaysLeftText {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 0.65rem;
+  color: #00fff8;
+}
+
+.DaysLeftText {
+  color: #8bacd9;
+  font-weight: 400;
+}

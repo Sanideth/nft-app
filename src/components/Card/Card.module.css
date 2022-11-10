@@ -1,0 +1,16 @@
+.Card {
+  background-color: #15263f;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 1.5rem;
+}
+
+.Image {
+  background-image: url(../../images/image-equilibrium.jpg);
+  width: 302px;
+  height: 302px;
+  background-position: center;
+  background-size: 100%;
+  border-radius: 0.8rem;
+  margin-bottom: 2.4rem;
+}
