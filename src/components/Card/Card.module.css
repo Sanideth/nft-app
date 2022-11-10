@@ -13,4 +13,30 @@
   background-size: 100%;
   border-radius: 0.8rem;
   margin-bottom: 2.4rem;
+  background-color: #00fff8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.Image::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #00fff8;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.Image:hover::after {
+  opacity: 0.4;
+}
+.Icon {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.Image:hover .Icon {
+  opacity: 1;
 }

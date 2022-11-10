@@ -7,6 +7,12 @@
   font-weight: 600;
   font-size: 22px;
   line-height: 28px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.Heading:hover {
+  color: #00fff8;
 }
 
 .Text {
